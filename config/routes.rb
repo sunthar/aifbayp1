@@ -1,7 +1,8 @@
 Aifbayp4::Application.routes.draw do
   get "home/index"
   
- #  match 'welcome' => 'welcome#index', :as => 'welcome'
+  match 'contact' => 'home#contact', :as => 'contact'
+  match 'gallery' => 'home#gallery', :as => 'gallery'
  
   # The priority is based upon order of creation:
   # first created -> highest priority.
