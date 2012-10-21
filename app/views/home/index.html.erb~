@@ -64,9 +64,7 @@
             	<div class="slider-wrapper theme-default">
                     <div id="slider" class="nivoSlider">
                         <a href="#"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/banner1.jpg" title="#banner1" alt="" /></a>
-                        <a href="#"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/banner2.jpg" title="#banner2" alt="" /></a>
-                        <a href="#"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/banner3.jpg" title="#banner3" alt="" /></a>
-                        <a href="#"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/banner4.jpg" title="#banner4" alt="" /></a>
+			<a href="#"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/banner2.jpg" title="#banner1" alt="" /></a>
                     </div>
                     <!-- Banner Caption Start -->
                     <div id="banner1" class="nivo-html-caption">
@@ -80,13 +78,13 @@
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean commodo dolor at sapien luctus non venenatis dui</p>
                     </div>
                     <!-- Banner Caption End -->
-                    <!-- Banner Caption Start -->
+                    <!-- Banner Caption Start --><!--
                     <div id="banner3" class="nivo-html-caption">
                     	<h4 class="white">Something Awesome</h4>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean commodo dolor at sapien luctus non venenatis dui</p>
                     </div>
                     <!-- Banner Caption End -->
-                    <!-- Banner Caption Start -->
+                    <!-- Banner Caption Start --><!--
                     <div id="banner4" class="nivo-html-caption">
                     	<h4 class="white">Something Awesome</h4>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean commodo dolor at sapien luctus non venenatis dui</p>

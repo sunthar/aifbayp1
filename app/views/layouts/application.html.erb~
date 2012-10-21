@@ -19,18 +19,14 @@
 <%= javascript_include_tag "jquery.infinite-carousel" %>
 <%= javascript_include_tag "scrolltopcontrol" %>
 <%= javascript_include_tag "functions" %>
-<%= javascript_include_tag "https://js.stripe.com/v1", "application" %>
-<!-- <%= javascript_include_tag "https://js.stripe.com/v1", "application" %>-->
 
 <%= csrf_meta_tags %>
-
-<%= tag :meta, :name => "stripe_key", :content => STRIPE_PUBLIC_KEY %>
 
 </head>
 
 <body>
 
-<div id="top-bar">
+<!--<div id="top-bar">
 	<div class="inner">
     	<!-- Top Bar Posts Start --> <!--
     	<div class="small-posts">
@@ -62,9 +58,9 @@
                 <li><a href="#">Donate</a></li>
             </ul>
             <!-- Top Links End -->
-        </div>
+        <!--</div>
         <!-- Top Links End -->
-        <div class="clear"></div>
+        <!--<div class="clear"></div>
     </div>
 </div>
 <!-- Top Bar End -->
@@ -75,7 +71,7 @@
         <div class="top-head">
         	<!-- Logo Start -->
         	<div class="logo">
-            	<a href="#"><img src="http://db.tt/BmmqiHKG" alt="" height=70px /></a>
+            	<a href="http://aifbayp.herokuapp.com"><img src="http://db.tt/BmmqiHKG" alt="" height=70px /></a>
             </div>
             <!-- Logo End -->
             <!-- Right Section Start -->
@@ -111,20 +107,20 @@
         <div class="widget-placeholder">
         	<!-- Text Widget Start -->
         	<div class="widget text-widget">
-            	<a href="#"><img src="http://i.imgur.com/bFxaN.png" alt="" height=30px /></a>
+            	<a href="#"><img src="http://db.tt/BmmqiHKG" alt="" height=50px /></a>
                 <br />
                 <br />
                 <p>
-                	P.O Box 1234<br />
-                    Your City, City Name and Code 12345<br />
-                    (800) 123-4567 | Fax: (123) 345-6789<br />
-                    Email: <a href="mailto:email@yourcompany.com">Email@yourcompany.com</a><br />
+                    American Indian Foundationbr />
+                    Young Professionals<br />
+                    Bay Area<br />
+                    Email: <a href="mailto:contact@aifbayp.com">contact@aifbayp.com</a><br />
                 </p>
             </div>
             <!-- Text Widget End -->
             <!-- Social Network Start -->
             <div class="widget social-network">
-            	<h5 class="white">Follow Us</h5>
+            	<h5>Follow Us</h5>
                 <ul>
                 	<li><a href="#"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/tweeter-icon.png" /></a></li>
                     <li><a href="#"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/facebook-icon.png" alt="" /></a></li>
@@ -141,7 +137,7 @@
         <div class="widget-placeholder">
         	<!-- Blog Roll Start -->
         	<div class="widget blogroll">
-            	<h4 class="white">Blog Roll</h4>
+            	<h4>Blog Roll</h4>
                 <ul>
                 	<li><a href="#">AIF Blog Link<span>(65)</span></a></li>
                     <li><a href="#">AIF Blog Link<span>(13)</span></a></li>
@@ -158,7 +154,7 @@
         <div class="widget-placeholder">
         	<!-- Latest Tweets Start -->
         	<div class="widget latest-tweets">
-            	<h4 class="white">Latest Tweets</h4>
+            	<h4>Latest Tweets</h4>
                 <div class="tweet">
                 	<a href="#">@tamasgergocs</a> Thanks for posting the photos, Tamás! Let us know when you have your next event #aifbayp
                 </div>
@@ -171,7 +167,7 @@
         <div class="widget-placeholder">
         	<!-- Contact Form Start -->
         	<div class="widget contact-form">
-	            <h4 class="white">Contact Us</h4>
+	            <h4>Contact Us</h4>
             	<ul>
                 	<li><input type="text" class="bar" value="Name" /></li>
                     <li><input type="text" class="bar" value="Email" /></li>
@@ -186,12 +182,12 @@
     </div>
     <!-- Copyrights Start -->
     <div class="copyrights">
-    	<div class="inner">
+    	<div class="inner" style="color:whitesmoke">
         	<!-- Copyrights Text Start -->
         	<p>© 2012 AIFBAYP. All rights reserved</p>
             <!-- Copyrights Text End -->
             <!-- Go To Top Start -->
-            <a href="#top" class="top">Back to top</a>
+            <a href="#top" class="top" style="color:whitesmoke">Back to top</a>
             <!-- Go To Top Start -->
             <div class="clear"></div>
         </div>
