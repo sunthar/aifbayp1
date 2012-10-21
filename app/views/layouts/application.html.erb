@@ -19,8 +19,12 @@
 <%= javascript_include_tag "jquery.infinite-carousel" %>
 <%= javascript_include_tag "scrolltopcontrol" %>
 <%= javascript_include_tag "functions" %>
+<%= javascript_include_tag "https://js.stripe.com/v1", "application" %>
+<!-- <%= javascript_include_tag "https://js.stripe.com/v1", "application" %>-->
 
 <%= csrf_meta_tags %>
+
+<%= tag :meta, :name => "stripe_key", :content => STRIPE_PUBLIC_KEY %>
 
 </head>
 
@@ -28,15 +32,15 @@
 
 <div id="top-bar">
 	<div class="inner">
-    	<!-- Top Bar Posts Start -->
+    	<!-- Top Bar Posts Start --> <!--
     	<div class="small-posts">
         	<p>MLALALLALALALAL. <a href="#">Keep Reading</a></p>
         </div>
         <!-- Top Bar Posts End -->
-        <!-- Top Links Start -->
+        <!-- Top Links Start --><!--
         <div class="toplinks">
         	<a href="javascript:animatedcollapse.toggle('loginbox')" class="loginbtn">LOGINNOW</a>
-            <!-- Login Box Start -->
+            <!-- Login Box Start --><!--
             <div id="loginbox">
             	<h3 class="upper">User Login</h3>
                 <ul>
@@ -49,7 +53,7 @@
                 </div>
             </div>
             <!-- Login Box End -->
-            <!-- Top Links Start -->
+            <!-- Top Links Start --><!--
             <ul class="top-links">
             	<li><a href="#">About</a></li>
                 <li><a href="#">Calendar</a></li>
@@ -71,7 +75,7 @@
         <div class="top-head">
         	<!-- Logo Start -->
         	<div class="logo">
-            	<a href="#"><img src="http://i.imgur.com/bFxaN.png" alt="" height=70px /></a>
+            	<a href="#"><img src="http://db.tt/BmmqiHKG" alt="" height=70px /></a>
             </div>
             <!-- Logo End -->
             <!-- Right Section Start -->

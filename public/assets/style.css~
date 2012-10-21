@@ -461,7 +461,7 @@ button.dark {
 	padding-bottom:19px;
 	margin-bottom:20px;
 	border-bottom:#a6a6a6 solid 1px;
-	background:url('http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/gray-bg.gif') repeat-x bottom #dbdbdb;
+	background: #efefef;
 }
 /*
 =======================================================================
@@ -1445,7 +1445,6 @@ ul.post-thumbs li .desc p{
 */
 #scroller-sec {
 	width:100%;
-	border-top:#e6e6e6 solid 6px;
 }
 .scroll-sec {
 	padding:20px 0px;
@@ -2674,14 +2673,11 @@ a#logoNext:hover {
 }
 .latest-tweets .tweet{
 	width:210px;
-	color:#c1c1c1;
 	line-height:20px;
 	padding:18px 15px 40px 15px;
 	background:url('http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/twitter-bg.png') no-repeat bottom;
 }
-.latest-tweets .tweet a{
-	color:#c1c1c1 !important;
-}
+
 .latest-tweets a.follow-tweet{
 	height:22px;
 	color:#1bafd0 !important;
@@ -2743,11 +2739,11 @@ a#logoNext:hover {
 */
 #footer {
 	width:100%;
-	color:#FFF;
-	background:url('http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/footer.gif');
+	color: black;
+	background:whitesmoke;
 }
 #footer a{
-	color:#FFF;
+	color: #DC5038;
 }
 #footer .widget{
 	padding:0px 0px 20px 0px;
@@ -2775,6 +2771,7 @@ a#logoNext:hover {
 	padding:13px 0px 0px 0px;
 }
 .copyrights a.top{
+	color:white;	
 	float:right;
 	height:16px;
 	display:inline-block;
