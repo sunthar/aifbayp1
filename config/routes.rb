@@ -7,6 +7,7 @@ Aifbayp4::Application.routes.draw do
   match 'help' => 'home#help', :as => 'help'
   match 'stripe' => 'home#stripe', :as => 'stripe'
   match 'aboutus' => 'home#about', :as => 'aboutus'
+  match 'getinvolved' => 'home#getinvolved', :as => 'getinvolved'
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
