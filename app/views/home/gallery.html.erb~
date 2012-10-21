@@ -1,6 +1,7 @@
-<!-- <h1>Home#index</h1> -->
-<!-- <p>Find me in app/views/home/index.html.erb</p> -->
+<!-- <h1>Home#gallery</h1> -->
+<!-- <p>Find me in app/views/home/gallery.html.erb</p> -->
 
+<!-- http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/ -->
 
         <!-- Navigation Start -->
         <div class="navigation bordercolr">
@@ -99,7 +100,7 @@
                 <div id="main">
                     <div id="images">
                         <div class="slide">
-                            <a href="" class="thumb"><img src="images/large1.jpg" alt="" /></a>
+                            <a href="" class="thumb"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/large1.jpg" alt="" /></a>
                             <div class="caption">
                             	<h5>People Toghther</h5>
                                 <p>
@@ -108,7 +109,7 @@
                             </div>
                         </div>
                         <div class="slide">
-                            <a href="" class="thumb"><img src="images/large2.jpg" alt="" /></a>
+                            <a href="" class="thumb"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/large2.jpg" alt="" /></a>
                             <div class="caption">
                             	<h5>People Toghther</h5>
                                 <p>
@@ -117,7 +118,7 @@
                             </div>
                         </div>	
                         <div class="slide">
-                            <a href="" class="thumb"><img src="images/large1.jpg" alt="" /></a>
+                            <a href="" class="thumb"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/large1.jpg" alt="" /></a>
                             <div class="caption">
                             	<h5>People Toghther</h5>
                                 <p>
@@ -126,7 +127,7 @@
                             </div>
                         </div>
                         <div class="slide">
-                            <a href="" class="thumb"><img src="images/large2.jpg" alt="" /></a>
+                            <a href="" class="thumb"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/large2.jpg" alt="" /></a>
                             <div class="caption">
                             	<h5>People Toghther</h5>
                                 <p>
@@ -135,7 +136,7 @@
                             </div>
                         </div>
                         <div class="slide">
-                            <a href="" class="thumb"><img src="images/large1.jpg" alt="" /></a>
+                            <a href="" class="thumb"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/large1.jpg" alt="" /></a>
                             <div class="caption">
                             	<h5>People Toghther</h5>
                                 <p>
@@ -144,7 +145,7 @@
                             </div>
                         </div>
                         <div class="slide">
-                            <a href="" class="thumb"><img src="images/large2.jpg" alt="" /></a>
+                            <a href="" class="thumb"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/large2.jpg" alt="" /></a>
                             <div class="caption">
                             	<h5>People Toghther</h5>
                                 <p>
@@ -153,7 +154,7 @@
                             </div>
                         </div>	
                         <div class="slide">
-                            <a href="" class="thumb"><img src="images/large1.jpg" alt="" /></a>
+                            <a href="" class="thumb"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/large1.jpg" alt="" /></a>
                             <div class="caption">
                             	<h5>People Toghther</h5>
                                 <p>
@@ -167,25 +168,25 @@
                     <a href="#" class="thumbs" id="prev">Previous</a>
                     <div id="thumbs">
                         <div class="thumb">
-                            <a href=""><img src="images/thumb1.jpg" alt="" /></a>
+                            <a href=""><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/thumb1.jpg" alt="" /></a>
                         </div>
                         <div class="thumb">
-                            <a href=""><img src="images/thumb2.jpg" alt="" /></a>
+                            <a href=""><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/thumb2.jpg" alt="" /></a>
                         </div>
                         <div class="thumb">
-                            <a href=""><img src="images/thumb3.jpg" alt="" /></a>
+                            <a href=""><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/thumb3.jpg" alt="" /></a>
                         </div>
                         <div class="thumb">
-                            <a href=""><img src="images/thumb1.jpg" alt="" /></a>	
+                            <a href=""><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/thumb1.jpg" alt="" /></a>	
                         </div>
                         <div class="thumb">
-                            <a href=""><img src="images/thumb2.jpg" alt="" /></a>	
+                            <a href=""><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/thumb2.jpg" alt="" /></a>	
                         </div>
                         <div class="thumb">
-                            <a href=""><img src="images/thumb1.jpg" alt="" /></a>
+                            <a href=""><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/thumb1.jpg" alt="" /></a>
                         </div>
                         <div class="thumb">
-                            <a href=""><img src="images/thumb2.jpg" alt="" /></a>
+                            <a href=""><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/thumb2.jpg" alt="" /></a>
                         </div>
                     </div>
                     <a href="#" class="thumbs" id="next">Next</a>
