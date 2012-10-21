@@ -95,16 +95,20 @@
             <!-- Banner End -->
             <!-- Welcome Section Start -->
             <div class="welcome">
-            	<h4 class="sec-head backcolr">American Indian Foundation</h4>
-                <div class="welc-text">
+            	<h4 class="sec-head backcolr" style="text-align:center">American Indian Foundation</h4>
+        
+	       <div class="welc-text">
                 	<a href="#"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/welcome.jpg" alt="" /></a>
-                    <p>
-                    	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean commodo dolor at sapien luctus non venenatis dui lacinia. Phasellus viverra, orci ut lacinia varius.  Phasellus viverra, orci ut lacinia varius.
-                    </p>
+                    <h5 style="padding:10px;">
+                    	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean commodo dolor at 
+                    </h5>
                     <ul class="actions">
-                    	<li><a href="#" class="txthover"><span class="join">&nbsp;</span>Join Us</a></li>
+<h4 styel="text-align:center; color:whitesmoke; padding-top:5px;
+                    	<!--<li><a href="#" class="txthover"><span class="join">&nbsp;</span>Join Us</a></li>
                         <li><a href="#" class="txthover"><span class="sermons">&nbsp;</span>Our Events</a></li>
                         <li><a href="#" class="txthover"><span class="support">&nbsp;</span>Our Cause</a></li>
+-->
+<h2>Join Us</h2>
                     </ul>
                     <div class="clear"></div>
                 </div>
