@@ -17,8 +17,8 @@
                     </li>
 	            <li class="current-menu-item"><a href="getinvolved">Get Involved</a>
                     	<ul class="backcolr">
+                            <li><a href="events">Attend an Event</a></li>
                             <li><a href="#">Become a Member</a></li>
-                            <li><a href="#">Attend an Event</a></li>
                             <li><a href="#">Donate</a></li>
                         </ul>		    
 		    </li>
