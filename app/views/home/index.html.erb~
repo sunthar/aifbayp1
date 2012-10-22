@@ -7,11 +7,11 @@
             	<ul>
                     <li class="current-menu-item"><a href="/">Home</a></li>
                     <li><a href="aboutus">About Us</a>
-                    	<ul class="backcolr">
+                    	<!--<ul class="backcolr">
                             <li><a href="#">Our Team</a></li>
                             <li><a href="#">Our Cause</a></li>
                             <li><a href="#">Our Impact</a></li>
-                        </ul>
+                        </ul>-->
                     </li>
 	            <li><a href="events">Get Involved</a>
                     	<ul class="backcolr">
@@ -228,7 +228,7 @@
                         <div class="calendar">
                             <ul class="months">
                                 <li><a href="#" class="calendar-prev">&nbsp;</a></li>
-                                <li><h4 class="white">January 2012</h4></li>
+                                <li><h4 class="white">October 2012</h4></li>
                                 <li><a href="#" class="calendar-next">&nbsp;</a></li>
                             </ul>
                             <ul class="days">
@@ -242,7 +242,7 @@
                             </ul>
                             <ul class="dates">
                                 <li class="disabled"><a href="#">30</a></li>
-                                <li><a href="#">1</a></li>
+                                <li><a>1</a></li>
                                 <li><a href="#">2</a></li>
                                 <li><a href="#">3</a></li>
                                 <li><a href="#">4</a></li>
