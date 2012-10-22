@@ -9,11 +9,11 @@
             	<ul>
                     <li><a href="/">Home</a></li>
                     <li class="current-menu-item"><a href="aboutus">About Us</a>
-                    	<ul class="backcolr">
+                    	<!--<ul class="backcolr">
                             <li><a href="#">Our Team</a></li>
                             <li><a href="#">Our Cause</a></li>
                             <li><a href="#">Our Impact</a></li>
-                        </ul>
+                        </ul>-->
                     </li>
 	            <li><a href="events">Get Involved</a>
                     	<ul class="backcolr">
@@ -254,7 +254,7 @@
                             <li><a href="#">Aenean commodo dolor at sapien luctus</a></li>
                             <li><a href="#">Sapien luctus non venenatis</a></li>
                         </ul>
-<a href="#" class="buttonone backcolr" style="margin-top:10px">Read More</a>
+<!-- <a href="#" class="buttonone backcolr" style="margin-top:10px">Read More</a> -->
                     </div>
                     <!-- Recent Posts Widget End -->
                 </div>
@@ -263,22 +263,23 @@
                 <div class="onethird box left" style="width:460px">
                     <!-- Image Gallery Widget Start -->
                     <div class="widget image-gallery">
-                    	<h3 class="heading colr">Our Impact</h3>
+                    	<!--<h3 class="heading colr">Our Impact</h3> -->
                         <ul>
                             <li><a href="#"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/flickr1.gif" alt="" /></a></li>
                             <li><a href="#"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/flickr2.gif" alt="" /></a></li>
                             <li><a href="#"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/flickr3.gif" alt="" /></a></li>
                             <li><a href="#"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/flickr4.gif" alt="" /></a></li>
                             <li><a href="#"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/flickr5.gif" alt="" /></a></li>
-                            <li><a href="#"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/flickr6.gif" alt="" /></a></li>
+<!--                            <li><a href="#"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/flickr6.gif" alt="" /></a></li>
                             <li><a href="#"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/flickr7.gif" alt="" /></a></li>
                             <li><a href="#"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/flickr8.gif" alt="" /></a></li>
                             <li><a href="#"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/flickr9.gif" alt="" /></a></li>
                             <li><a href="#"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/flickr10.gif" alt="" /></a></li>
                             <li><a href="#"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/flickr11.gif" alt="" /></a></li>
                             <li><a href="#"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/flickr12.gif" alt="" /></a></li>
+-->
                         </ul>
-                        <a href="#" class="buttonone backcolr">View Gallery</a>
+                       <!-- <a href="#" class="buttonone backcolr">View Gallery</a> -->
                     </div>
                     <!-- Image Gallery Widget Start -->
             	</div>
