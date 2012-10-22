@@ -18,8 +18,8 @@
 	            <li class="current-menu-item"><a href="events">Get Involved</a>
                     	<ul class="backcolr">
                             <li><a href="events">Attend an Event</a></li>
-                            <li><a href="#">Become a Member</a></li>
-                            <li><a href="#">Donate</a></li>
+                            <li><a href="http://bit.ly/AIFBAYP_GetInvolved">Become a Member</a></li>
+                            <li><a href="https://donate.aif.org">Donate</a></li>
                         </ul>		    
 		    </li>
 		    <!--<li><a href="events.html">Events</a></li>
@@ -76,7 +76,7 @@
                     <li><a href="#" class="tweet-icon">&nbsp;</a></li>
                     <li><a href="#" class="fb-icon">&nbsp;</a></li>
                 </ul>-->
-		<div class="fb-like" data-href="http://www.facebook.com/AIFBayAreaYP" data-send="false" data-layout="button-count" data-width="20" data-show-faces="true"></div>
+		<div class="fb-like" data-href="http://www.facebook.com/AIFBayAreaYP" data-send="false" data-layout="button-count" data-width="20" data-show-faces="false"></div>
 
             </div>
             <div class="clear"></div>

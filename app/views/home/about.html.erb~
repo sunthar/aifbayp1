@@ -18,8 +18,8 @@
 	            <li><a href="events">Get Involved</a>
                     	<ul class="backcolr">
                             <li><a href="events">Attend an Event</a></li>
-                            <li><a href="#">Become a Member</a></li>
-                            <li><a href="#">Donate</a></li>
+                            <li><a href="http://bit.ly/AIFBAYP_GetInvolved">Become a Member</a></li>
+                            <li><a href="https://donate.aif.org">Donate</a></li>
                         </ul>		    
 		    </li>
 		    <!--<li><a href="events.html">Events</a></li>
@@ -108,7 +108,7 @@
                                                     <h4><a href="#">Simran Chaudhry<br/>
 							Product Manager, Zynga</a></h4>
                                                     <p class="time">Technology Lead</p>
-                                                    <p class="venu"><a href="javascript:animatedcollapse.toggle('location1')">Expand full bio</a></p>
+                                                    <p class="venu"><a href="javascript:animatedcollapse.toggle('location1')">Expand for full bio</a></p>
                                                 </div>
                                                 <div id="location1" class="venu-map" style="display:none">
                                                     <span class="pointer">&nbsp;</span>

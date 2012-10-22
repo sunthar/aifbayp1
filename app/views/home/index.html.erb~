@@ -16,8 +16,8 @@
 	            <li><a href="events">Get Involved</a>
                     	<ul class="backcolr">
                             <li><a href="events">Attend an Event</a></li>
-                            <li><a href="#">Become a Member</a></li>
-                            <li><a href="#">Donate</a></li>
+                            <li><a href="http://bit.ly/AIFBAYP_GetInvolved">Become a Member</a></li>
+                            <li><a href="https://donate.aif.org">Donate</a></li>
                         </ul>		    
 		    </li>
 		    <!--<li><a href="events.html">Events</a></li>
@@ -99,7 +99,7 @@
                     	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean commodo dolor at. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean commodo. 
                     </h5>
                     <ul class="actions">
-<h4 style="text-align:center; color:whitesmoke; padding-top:8px;">Join Us Today</h4>
+<a href="events"><h4 style="text-align:center; color:whitesmoke; padding-top:8px;">Get Involved Today</h4></a>
                     	<!--<li><a href="#" class="txthover"><span class="join">&nbsp;</span>Join Us</a></li>
                         <li><a href="#" class="txthover"><span class="sermons">&nbsp;</span>Our Events</a></li>
                         <li><a href="#" class="txthover"><span class="support">&nbsp;</span>Our Cause</a></li>
