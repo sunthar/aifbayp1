@@ -13,7 +13,7 @@
                             <li><a href="#">Our Impact</a></li>
                         </ul>
                     </li>
-	            <li><a href="getinvolved">Get Involved</a>
+	            <li><a href="events">Get Involved</a>
                     	<ul class="backcolr">
                             <li><a href="events">Attend an Event</a></li>
                             <li><a href="#">Become a Member</a></li>
@@ -141,21 +141,21 @@
         <div class="advert-banners">
         	<ul>
             	<li>
-                	<div class="thumb">
-                    	<a href="#"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/img1.jpg" alt="" /></a>
-                        <h4 class="white">Who We Are</h4>
+                	<div class="thumb" style="height:100px">
+                    	<a href="#"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/img1.jpg" alt="" height="100" width="300" /></a>
+                        <h4 class="white">About Us</h4>
                     </div>
                 </li>
                 <li>
-                	<div class="thumb">
-                        <a href="#"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/img2.jpg" alt="" /></a>
-                        <h4 class="white">What We Do</h4>
+                	<div class="thumb" style="height:100px">
+                        <a href="#"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/img2.jpg" alt="" height="100" width="300" /></a>
+                        <h4 class="white">Our Cause</h4>
                     </div>
                 </li>
                 <li>
-                	<div class="thumb">
-                        <a href="#"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/img3.jpg" alt="" /></a>
-                        <h4 class="white">How You Can Help</h4>
+                	<div class="thumb" style="height:100px">
+                        <a href="#"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/img3.jpg" alt=""  height="100" width="300"/></a>
+                        <h4 class="white">Our Events</h4>
                     </div>
                 </li>
             </ul>
@@ -212,58 +212,19 @@
                     <!-- Half Box End -->
                 </div>
                 <hr />
-                <div class="twothird left">
-                    <!-- Half Box Start -->
-                    <div class="halfbox left border-right">
-                        <h3 class="heading colr">Video Gallery</h3>
-                        <!-- Video Gallery Start -->
-                        <div class="video-gallery">
-                            <ul>
-                                <li>
-                                    <a href="#" class="thumb"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/img6.jpg" alt="" /></a>
-                                    <p><a href="#" class="bold">Donec ut nibh tellus. Proin erat urna, luctuseg ementum at, facilisis sed nunc.</a></p>
-                                </li>
-                                <li><a href="#">Aenean commodo dolor at sapien luctus (05:30)</a></li>
-                                <li><a href="#">Sapien luctus non venenatis (19:18)</a></li>
-                            </ul>
-                        </div>
-                        <!-- Video Gallery End -->
-                    </div>
-                    <!-- Half Box End -->
-                    <!-- Half Box Start -->
-                    <div class="halfbox right">
-                        <h3 class="heading colr">Image Gallery</h3>
-                        <!-- Home Page Post Start -->
-                        <div class="image-gallery">
-                            <ul>
-                            	<li><a href="#"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/flickr1.gif" /></a></li>
-                                <li><a href="#"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/flickr2.gif" alt="" /></a></li>
-                                <li><a href="#"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/flickr3.gif" alt="" /></a></li>
-                                <li><a href="#"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/flickr4.gif" alt="" /></a></li>
-                                <li><a href="#"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/flickr5.gif" alt="" /></a></li>
-                                <li><a href="#"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/flickr6.gif" alt="" /></a></li>
-                                <li><a href="#"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/flickr7.gif" alt="" /></a></li>
-                                <li><a href="#"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/flickr8.gif" alt="" /></a></li>
-                                <li><a href="#"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/flickr9.gif" alt="" /></a></li>
-                                <li><a href="#"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/flickr10.gif" alt="" /></a></li>
-                                <li><a href="#"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/flickr11.gif" alt="" /></a></li>
-                                <li><a href="#"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/flickr12.gif" alt="" /></a></li>
-                            </ul>
-                            <a href="#" class="buttonone backcolr">View Gallery</a>
-                        </div>
-                        <!-- Home Page Post End -->
-                    </div>
-                    <!-- Half Box End -->
-                </div>
             </div>
             <!-- Two Third Section End -->
             <!-- One Third Section Start -->
             <div class="onethird right">
                 <!-- One Third Box Start -->
                 <div class="onethird box left">
+			<h4><a href="#">Title</a></h4>
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean commodo dolor at sapien luctus non   
+                            </p>
                     <!-- Upcoming Widget Start -->
-                    <div class="widget wp-calendar">
-                        <h4 class="sec-head backcolr">Upcoming Events</h4>
+                    <div class="widget wp-calendar" style="margin-top:10px">
+                        <!--<h4 class="sec-head backcolr">January 2012</h4>-->
                         <div class="calendar">
                             <ul class="months">
                                 <li><a href="#" class="calendar-prev">&nbsp;</a></li>
