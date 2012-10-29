@@ -112,7 +112,7 @@
                                                     <h5>NOV<br/>2012</h5>
                                                 </div>
                                                 <div class="eve-desc">
-                                                    <h4><a href="#"><b>KRUSHNA AND SONUM </b> Need an Event Name here</a></h4>
+                                                    <h4><a href="#"><b><span style="background-color:yellow">KRUSHNA AND SONUM</span> </b> Need an Event Name here</a></h4>
                                                     <p class="time">10:00pm – 02:00am</p>
                                                     <!--<p class="venu"><a href="javascript:animatedcollapse.toggle('location1')">Conference Center Auditorium</a></p>-->
 <p class="venu"><a>111 Minna Gallery</a></p>
@@ -123,7 +123,7 @@
                                                     <div class="venu-text">
                                                         <h5 class="colr">About Event</h5>
                                                         <p>
-                                                          <b>KRUSHNA AND SONUM - Need a description </b>  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed luctus bibendum tellus sit amet lobortis. Curabitur hendrerit fermentum imperdiet urabitur sodales metus quis odio porta pharetra. Phasellus nibh neque, lobortis et accumsan inturpis.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed luctus bibendum tellus sit amet lobortis. Curabitur hendrerit fermentum imperdiet urabitur sodales metus quis odio porta pharetra.
+                                                          <b><span style="background-color:yellow">KRUSHNA AND SONUM - Need a description</span> </b>  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed luctus bibendum tellus sit amet lobortis. Curabitur hendrerit fermentum imperdiet urabitur sodales metus quis odio porta pharetra. Phasellus nibh neque, lobortis et accumsan inturpis.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed luctus bibendum tellus sit amet lobortis. Curabitur hendrerit fermentum imperdiet urabitur sodales metus quis odio porta pharetra.
                                                         </p>
                                                     </div>
                                                     <div class="location-opts">
@@ -134,6 +134,37 @@
                                                 </div>
                                             </div>
                                             <!-- Event Single Date End -->
+
+					    <!-- Event Single Date Start -->
+                                            <div class="single-event">
+                                                <div class="eve-date">
+                                                    <h1>30</h1>
+                                                    <h5>NOV<br/>2012</h5>
+                                                </div>
+                                                <div class="eve-desc">
+                                                    <h4><a href="#"><b><span style="background-color:yellow">KRUSHNA AND SONUM</span> </b> Need an Event Name here</a></h4>
+                                                    <p class="time">10:00pm – 02:00am</p>
+                                                    <!--<p class="venu"><a href="javascript:animatedcollapse.toggle('location1')">Conference Center Auditorium</a></p>-->
+<p class="venu"><a>111 Minna Gallery</a></p>
+                                                </div>
+                                                <div id="location1" class="venu-map">
+                                                    <span class="pointer">&nbsp;</span>
+                                                    <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=111+minna+gallery&amp;aq=&amp;sll=37.7577,-122.4376&amp;sspn=0.165303,0.198441&amp;ie=UTF8&amp;hq=111+minna+gallery&amp;t=m&amp;cid=13067323715644860555&amp;hnear=&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe>
+                                                    <div class="venu-text">
+                                                        <h5 class="colr">About Event</h5>
+                                                        <p>
+                                                          <b><span style="background-color:yellow">KRUSHNA AND SONUM - Need a description</span> </b>  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed luctus bibendum tellus sit amet lobortis. Curabitur hendrerit fermentum imperdiet urabitur sodales metus quis odio porta pharetra. Phasellus nibh neque, lobortis et accumsan inturpis.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed luctus bibendum tellus sit amet lobortis. Curabitur hendrerit fermentum imperdiet urabitur sodales metus quis odio porta pharetra.
+                                                        </p>
+                                                    </div>
+                                                    <div class="location-opts">
+                                                        <!--<a href="#" class="buttontwo">View on Calender</a>
+                                                        <a href="#" class="fb-likes"><img src="images/fb-like.gif" alt="" /></a>
+                                                        <a href="javascript:animatedcollapse.hide('location1')" class="close">Close</a>-->
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- Event Single Date End -->
+
                                         </div>
                                         <!-- Event Section End -->
                                     </div>
@@ -148,15 +179,7 @@
                     <!-- Recent Posts Widget Start -->
                     <div class="widget recent-post">
                         <h3 class="heading colr">Our Cause</h3>
-                        <p class="black bold">Donec ut nibh tellus. Proin erat urna, luctuseg ementum at, facilisis sed nunc.</p>
-                        <ul>
-                        	<li><a href="#">Aenean commodo dolor at sapien luctus</a></li>
-                            <li><a href="#">Sapien luctus non venenatis</a></li>
-                            <li><a href="#">Aenean commodo dolor at sapien luctus</a></li>
-                            <li><a href="#">Sapien luctus non venenatis</a></li>
-                            <li><a href="#">Aenean commodo dolor at sapien luctus</a></li>
-                            <li><a href="#">Sapien luctus non venenatis</a></li>
-                        </ul>
+                         <p>As we enter the 21st century, technology is infiltrating nearly every facet of our lives. Eight of the ten fastest growing occupations are expected to be computer-related. Despite its unprecedented growth, India faces daunting challenges in the provision of equitable, quality education that prepares its youth for participation in the Digital Age. The Digital Equalizer program supports, empowers, and enables economically disadvantaged children in grades 6-10 to learn how to use the computer as a learning enhancement tool and develop the tehcnical skills that provide a future for their future career in the global market.</p>
                     </div>
                     <!-- Recent Posts Widget End -->
                 </div>
