@@ -294,7 +294,7 @@ Meghana is a part of the Community Outreach team. Community activism and involve
                                                     
                                                     <div class="venu-text" style="padding-top:10px;">
                                                         <h5 class="colr">About</h5>
-                                                        <p>This is Simran's first year with AIF; she is co-leading the Technology and Innovation committee. She believes technology is an incredibly powerful vehicle to raise awareness for social causes, and is excited to volunteer her time with AIF. She has spent time volunteering in both India and Ghana in hands-on projects, and finds that the most sustainable, highest-leverage non-profit solutions are in projects that provide education and capital resources, which is why she's very excited about this year's cause, Digital Equalizer. Simran currently works as a Product Manager for one of Zynga's largest games. She graduated this past year from UC Berkeley with a BS in Electrical Engineering and Computer Science. </p>
+                                                        <p>This is Simran's first year with AIF. She believes technology is an incredibly powerful vehicle to raise awareness for social causes, and is excited to volunteer her time with AIF to support the organization's Technology and Innovation initiatives. Simran currently works as a Product Manager for one of Zynga's largest games. She graduated this past year from UC Berkeley with a BS in Electrical Engineering and Computer Science. </p>
                                                     </div>
                                                     <div class="location-opts">
 <img src="http://db.tt/iSYLEs5F"/> <span>    </span><img src="http://db.tt/vWmoACKT"/>
@@ -369,16 +369,16 @@ Nikhil Trikha has spent two years on the Bay Area Young Professionals chapter. H
                     <!-- Recent Posts Widget Start -->
                     <div class="widget recent-post">
                         <h3 class="heading colr">Our Cause</h3>
-			<img src="http://db.tt/vO3w9hMp" width="420"/>
-                        <h5 class="black" style="padding-top:10px">Donec ut nibh tellus. Proin erat urna, luctuseg ementum at, facilisis sed nunc.</p>
-                        <ul>
+			<img src="http://db.tt/MSoSebYe" width="420"/>
+                        <h5 class="black" style="padding-top:10px">This year, AIFBAYP has selected Digital Equalizer, an AIF Signature Program, to raise and build awareness and funds for. Digital Equalizer is a program that supports, empowers, and enables economically disadvantaged children in grades 6-10 to learn how to use the computer as a learning enchancement tool and develop technical skills that provide a foundation for their future career in the global market.</p>
+                       <!-- <ul>
                         	<li><a href="#">Aenean commodo dolor at sapien luctus</a></li>
                             <li><a href="#">Sapien luctus non venenatis</a></li>
                             <li><a href="#">Aenean commodo dolor at sapien luctus</a></li>
                             <li><a href="#">Sapien luctus non venenatis</a></li>
                             <li><a href="#">Aenean commodo dolor at sapien luctus</a></li>
                             <li><a href="#">Sapien luctus non venenatis</a></li>
-                        </ul>
+                        </ul>-->
 <!-- <a href="#" class="buttonone backcolr" style="margin-top:10px">Read More</a> -->
                     </div>
                     <!-- Recent Posts Widget End -->
@@ -386,25 +386,22 @@ Nikhil Trikha has spent two years on the Bay Area Young Professionals chapter. H
                 <!-- One Third Box End -->
                 <!-- One Third Box Start -->
                 <div class="onethird box left" style="width:460px">
-                    <!-- Image Gallery Widget Start -->
+<!-- Image Gallery Widget Start -->
                     <div class="widget image-gallery">
-                    	<!--<h3 class="heading colr">Our Impact</h3> -->
+                    	<h3 class="heading colr">People We Impact</h3>
                         <ul>
-                            <li><a href="#"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/flickr1.gif" alt="" /></a></li>
-                            <li><a href="#"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/flickr2.gif" alt="" /></a></li>
-                            <li><a href="#"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/flickr3.gif" alt="" /></a></li>
-                            <li><a href="#"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/flickr4.gif" alt="" /></a></li>
-                            <li><a href="#"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/flickr5.gif" alt="" /></a></li>
-<!--                            <li><a href="#"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/flickr6.gif" alt="" /></a></li>
-                            <li><a href="#"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/flickr7.gif" alt="" /></a></li>
-                            <li><a href="#"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/flickr8.gif" alt="" /></a></li>
-                            <li><a href="#"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/flickr9.gif" alt="" /></a></li>
-                            <li><a href="#"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/flickr10.gif" alt="" /></a></li>
-                            <li><a href="#"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/flickr11.gif" alt="" /></a></li>
-                            <li><a href="#"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/flickr12.gif" alt="" /></a></li>
--->
+                            <li><a href="http://www.facebook.com/AIFoundation/photos_stream"><img src="https://sphotos-a.xx.fbcdn.net/hphotos-ash3/541237_10151159223632804_115932002_n.jpg" alt="" height="50" width="70"/></a></li>
+                            <li><a href="http://www.facebook.com/AIFoundation/photos_stream"><img src="https://sphotos-a.xx.fbcdn.net/hphotos-snc7/576856_10151147867307804_916927000_n.jpg" alt="" height="50" width="70"/></a></li>
+<li><a href="http://www.facebook.com/AIFoundation/photos_stream"><img src="https://sphotos-b.xx.fbcdn.net/hphotos-ash4/314255_10151141208792804_1478856093_n.jpg" alt="" height="50" width="70"/></a></li>
+<li><a href="http://www.facebook.com/AIFoundation/photos_stream"><img src="https://sphotos-b.xx.fbcdn.net/hphotos-ash4/485840_10151132480397804_1911008106_n.jpg" alt="" height="50" width="70"/></a></li>
+<li><a href="http://www.facebook.com/AIFoundation/photos_stream"><img src="https://sphotos-b.xx.fbcdn.net/hphotos-snc7/422684_10151128859627804_343856025_n.jpg" alt="" height="50" width="70"/></a></li>
+<li><a href="http://www.facebook.com/AIFoundation/photos_stream"><img src="https://sphotos-a.xx.fbcdn.net/hphotos-ash4/318362_10151121765102804_615906379_n.jpg" alt="" height="50" width="70"/></a></li>
+<li><a href="http://www.facebook.com/AIFoundation/photos_stream"><img src="https://sphotos-a.xx.fbcdn.net/hphotos-ash4/308470_10151112880677804_1298811504_n.jpg" alt="" height="50" width="70"/></a></li>
+<li><a href="http://www.facebook.com/AIFoundation/photos_stream"><img src="https://sphotos-b.xx.fbcdn.net/hphotos-ash4/603498_10151092902362804_903312719_n.jpg" alt="" height="50" width="70"/></a></li>
+<li><a href="http://www.facebook.com/AIFoundation/photos_stream"><img src="https://sphotos-b.xx.fbcdn.net/hphotos-snc7/308931_10151075059692804_374923866_n.jpg" alt="" height="50" width="70"/></a></li>
+
                         </ul>
-                       <!-- <a href="#" class="buttonone backcolr">View Gallery</a> -->
+                        <a href="http://www.facebook.com/AIFoundation/photos_stream" class="buttonone backcolr">View Gallery</a>
                     </div>
                     <!-- Image Gallery Widget Start -->
             	</div>

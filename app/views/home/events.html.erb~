@@ -99,8 +99,8 @@
                                     <div id="listlistlist" class="listvieww tablistt">
                                         <!-- Month Heading Start -->
                                         <div class="eve-month">
-                                        	<h4 class="colr">May 2012</h4>
-                                            <p>4 Events</p>
+                                        <!--	<h4 class="colr">May 2012</h4>
+                                            <p>4 Events</p>-->
                                         </div>
                                         <!-- Month Heading Start -->
                                         <!-- Event Section Start -->
@@ -108,54 +108,28 @@
                                             <!-- Event Single Date Start -->
                                             <div class="single-event">
                                                 <div class="eve-date">
-                                                    <h1>26</h1>
-                                                    <h5>MAY<br />2012</h5>
+                                                    <h1>30</h1>
+                                                    <h5>NOV<br/>2012</h5>
                                                 </div>
                                                 <div class="eve-desc">
-                                                    <h4><a href="#">Consectetur adipiscing elitenean ac odio metus.</a></h4>
-                                                    <p class="time">08:30am – 11:00am</p>
+                                                    <h4><a href="#"><b>KRUSHNA AND SONUM </b> Need an Event Name here</a></h4>
+                                                    <p class="time">10:00pm – 02:00am</p>
                                                     <!--<p class="venu"><a href="javascript:animatedcollapse.toggle('location1')">Conference Center Auditorium</a></p>-->
-<p class="venu"><a>Conference Center Auditorium</a></p>
+<p class="venu"><a>111 Minna Gallery</a></p>
                                                 </div>
                                                 <div id="location1" class="venu-map">
                                                     <span class="pointer">&nbsp;</span>
-                                                    <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=london&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=48.956293,107.138672&amp;ie=UTF8&amp;hq=&amp;hnear=London,+United+Kingdom&amp;ll=51.507335,-0.127683&amp;spn=0.004735,0.013078&amp;t=m&amp;z=14&amp;output=embed"></iframe>
+                                                    <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=111+minna+gallery&amp;aq=&amp;sll=37.7577,-122.4376&amp;sspn=0.165303,0.198441&amp;ie=UTF8&amp;hq=111+minna+gallery&amp;t=m&amp;cid=13067323715644860555&amp;hnear=&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe>
                                                     <div class="venu-text">
                                                         <h5 class="colr">About Event</h5>
                                                         <p>
-                                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed luctus bibendum tellus sit amet lobortis. Curabitur hendrerit fermentum imperdiet urabitur sodales metus quis odio porta pharetra. Phasellus nibh neque, lobortis et accumsan inturpis.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed luctus bibendum tellus sit amet lobortis. Curabitur hendrerit fermentum imperdiet urabitur sodales metus quis odio porta pharetra.
+                                                          <b>KRUSHNA AND SONUM - Need a description </b>  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed luctus bibendum tellus sit amet lobortis. Curabitur hendrerit fermentum imperdiet urabitur sodales metus quis odio porta pharetra. Phasellus nibh neque, lobortis et accumsan inturpis.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed luctus bibendum tellus sit amet lobortis. Curabitur hendrerit fermentum imperdiet urabitur sodales metus quis odio porta pharetra.
                                                         </p>
                                                     </div>
                                                     <div class="location-opts">
                                                         <!--<a href="#" class="buttontwo">View on Calender</a>
                                                         <a href="#" class="fb-likes"><img src="images/fb-like.gif" alt="" /></a>
                                                         <a href="javascript:animatedcollapse.hide('location1')" class="close">Close</a>-->
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <!-- Event Single Date End -->
-<!-- Event Single Date Start -->
-                                            <div class="single-event">
-                                                <div class="eve-date">
-                                                    <h1>26</h1>
-                                                    <h5>MAY<br />2012</h5>
-                                                </div>
-                                                <div class="eve-desc">
-                                                    <h4><a href="#">Consectetur adipiscing elitenean ac odio metus.</a></h4>
-                                                    <p class="time">08:30am – 11:00am</p>
-                                                    <p class="venu"><a>Conference Center Auditorium</a></p>
-                                                </div>
-                                                <div id="location1" class="venu-map">
-                                                    <span class="pointer">&nbsp;</span>
-                                                    <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=london&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=48.956293,107.138672&amp;ie=UTF8&amp;hq=&amp;hnear=London,+United+Kingdom&amp;ll=51.507335,-0.127683&amp;spn=0.004735,0.013078&amp;t=m&amp;z=14&amp;output=embed"></iframe>
-                                                    <div class="venu-text">
-                                                        <h5 class="colr">About Event</h5>
-                                                        <p>
-                                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed luctus bibendum tellus sit amet lobortis. Curabitur hendrerit fermentum imperdiet urabitur sodales metus quis odio porta pharetra. Phasellus nibh neque, lobortis et accumsan inturpis.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed luctus bibendum tellus sit amet lobortis. Curabitur hendrerit fermentum imperdiet urabitur sodales metus quis odio porta pharetra.
-                                                        </p>
-                                                    </div>
-                                                    <div class="location-opts">
-                                      
                                                     </div>
                                                 </div>
                                             </div>
@@ -191,7 +165,7 @@
                 <div class="onethird box left">
                     <!-- Image Gallery Widget Start -->
                     <div class="widget image-gallery">
-                    	<h3 class="heading colr">Our Impact</h3>
+                    	<h3 class="heading colr">People We Impact</h3>
                         <ul>
                             <li><a href="http://www.facebook.com/AIFoundation/photos_stream"><img src="https://sphotos-a.xx.fbcdn.net/hphotos-ash3/541237_10151159223632804_115932002_n.jpg" alt="" height="50" width="70"/></a></li>
                             <li><a href="http://www.facebook.com/AIFoundation/photos_stream"><img src="https://sphotos-a.xx.fbcdn.net/hphotos-snc7/576856_10151147867307804_916927000_n.jpg" alt="" height="50" width="70"/></a></li>
