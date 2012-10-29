@@ -2052,7 +2052,7 @@ a#logoNext:hover {
 .venu-map iframe {
 	border:#adadad solid 1px;
 	width:631px;
-	height:270px;
+	height:370px;
 	margin:10px;
 }
 .venu-map .venu-text {
