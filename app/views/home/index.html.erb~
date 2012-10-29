@@ -223,7 +223,7 @@ Since 2009, the Bay Area chapter has empowered young professionals to address so
             <div class="onethird right">
                 <!-- One Third Box Start -->
                 <div class="onethird box left">
-			<h4><span style="background-color:yellow">RAJ</span> Bay Area Events</a></h4>
+			<h4 class="heading colr"><span style="background-color:yellow">RAJ</span> Bay Area Events</h4>
                             <p> Need a paragraph about our events - what are they, what they're for, etc.  
                             </p>
                     <!-- Upcoming Widget Start -->
