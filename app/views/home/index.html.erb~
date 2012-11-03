@@ -177,8 +177,8 @@ The AIF Bay Area chapter raises awareness and supports fundraising efforts to im
                             <h4>We are young, up-and-coming changemakers who believe that awareness building, fundraising, and service can alter the course of India's future.
                             </h4>
                             <p>
-Since 2009, the Bay Area chapter has empowered young professionals to address social and economic development issues in South Asia and beyond. To date, we've raised over $65,000 for underprivileged children. And we've organized educational and social events that thousands have attended.                            </p><br/><br/><br/>
-                              <h4 class="heading colr">By the Numbers</h4>
+Since 2009, the Bay Area chapter has empowered young professionals to address social and economic development issues in South Asia and beyond. To date, we've raised over $65,000 for underprivileged children. And we've organized educational and social events that thousands have attended.                            </p>
+                              <h3 class="heading colr" style="padding-top:10px">By the Numbers</h3>
 				<h4 style="padding-bottom:0px">$65,000.</h4> Amount our chapter has raised since 2009 towards <a href="http://www.aif.org/signature-programs.html">AIF's causes</a> in India.
 <br/><br/>
 <h4 style="padding-bottom:0px">1.5 Million.</h4> Number of people AIF's programs in India have impacted.
@@ -197,7 +197,7 @@ Since 2009, the Bay Area chapter has empowered young professionals to address so
                         <!-- Home Page Post Start -->
                         <div class="home-post">
                             <!--<a href="#" class="thumb"><img src="http://www.chimpstudio.co.uk/themeforest/church/justbelieve/images/img5.jpg" alt="" /></a>-->
-                            <h4><a href="#">We envision an India where all children have access to technology and information to prepare them for the emerging Digital Age.</a></h4>
+                            <h4>We envision an India where all children have access to technology and information to prepare them for the emerging Digital Age.</h4>
                             <p>	
 <object width="320" height="200"><param name="movie" value="http://www.youtube.com/v/17aKTIJ0GcA?version=3&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/17aKTIJ0GcA?version=3&amp;hl=en_US" type="application/x-shockwave-flash" width=310" height="200" allowscriptaccess="always" allowfullscreen="true"></embed></object>
                             </p>
@@ -223,9 +223,19 @@ Since 2009, the Bay Area chapter has empowered young professionals to address so
             <div class="onethird right">
                 <!-- One Third Box Start -->
                 <div class="onethird box left">
-			<h4 class="heading colr"><span style="background-color:yellow">RAJ</span> Bay Area Events</h4>
-                            <p> Need a paragraph about our events - what are they, what they're for, etc.  
-                            </p>
+			<h4 class="heading colr">Bay Area Events</h4>
+                            <h4>Our chapter has rallied Bay Area Young Professionals through awarness building and social events.</h4>
+                           <p>Events we've organized in the past:</p>
+ 
+<p>
+	<p> - <u><a href="http://http://www.facebook.com/events/318443694874974/">Panel Event at Stanford University.</a></u><i> Children Left Behind: Issues in Primary School Education in India and the US</i>
+	</p>
+	<p> - <u><a href="http://http://www.facebook.com/events/177682719019588/">Masquerade Ball</a></u> in SF benefiting AIF's Learning and Migration Program (LAMP)
+	</p>
+	<p> - Intimiate dinner meetups around topics in South Asia social/economic development
+	</p>
+</p>
+<p>Don't miss our <u><a href="events">future events...</a></u></p>
                     <!-- Upcoming Widget Start -->
                     <div class="widget wp-calendar" style="margin-top:10px">
                         <!--<h4 class="sec-head backcolr">January 2012</h4>-->

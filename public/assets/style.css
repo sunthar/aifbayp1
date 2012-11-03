@@ -11,14 +11,14 @@
 }
 body {
 	font-family: 'Lucida Grande', Lucida, Arial, Helvetica, sans-serif;
-	font-size:11px;
+	font-size:12px;
 	color:#757575;
 	width:100%;
 }
 a {
 	text-decoration:none;
 	outline:none;
-	color:#757575;
+	color:#DC5038;
 }
 a img {
 	border:none;
@@ -109,11 +109,11 @@ p {
 	padding:0px 0px 15px 0px;
 }
 input {
-	font-size:11px;
+	font-size:12px;
 }
 textarea {
-	font-family:Arial, Helvetica, sans-serif;
-	font-size:11px;
+	font-family: 'Lucida Grande', Lucida, Arial, Helvetica, sans-serif;
+	font-size:12px;
 	color:#666;
 }
 .itlc {
