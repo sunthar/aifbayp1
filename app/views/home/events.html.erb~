@@ -58,7 +58,7 @@
         <!-- Bread Crumb Start -->
         <div class="breadcrumb">
         	<ul>
-            	<li>Come meet Bay Area young professionals at our next event, <a href="http://aifbaypbash.eventbrite.com" style="color:#DC5038;">Cocktails for a Cause</a> on Friday, November 30. All proceeds go to the AIF signature program, <a href ="http://aifdigitalequalizer.org/blog/?page_id=2" style="color:#DC5038;">Digital Equalizer.</a></li>
+		<li>Come meet Bay Area young professionals at our next event, <a href="http://aifbaypbash.eventbrite.com" style="color:black;">Cocktails for a Cause</a> on Friday, November 30. All proceeds go to the AIF signature program, <a href ="http://aifdigitalequalizer.org/blog/?page_id=2" style="color:black">Digital Equalizer.</a></li>
                 <!--<li><a href="#">Latest Blogs</a></li>
                 <li><a href="#">June 2012</a></li>-->
             </ul>
@@ -147,11 +147,13 @@
                                                     <h4><a href="#"><b>Fall Dinner Meetup</b></a></h4>
                                                     <p class="time">Thursday 11/08 from 6:30pm – 9:30pm</p>
                                                     <!--<p class="venu"><a href="javascript:animatedcollapse.toggle('location1')">Conference Center Auditorium</a></p>-->
-<p class="venu">Location TBD</p>
+<p class="venu">Zingari</p>
                                                 </div>
                                                 <div id="location1" class="venu-map">
                                                     <span class="pointer">&nbsp;</span>
-                                                    <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=111+minna+gallery&amp;aq=&amp;sll=37.7577,-122.4376&amp;sspn=0.165303,0.198441&amp;ie=UTF8&amp;hq=111+minna+gallery&amp;t=m&amp;cid=13067323715644860555&amp;hnear=&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe>
+
+
+                                                    <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=zingari&amp;aq=&amp;sll=37.7577,-122.4376&amp;sspn=0.165303,0.198441&amp;ie=UTF8&amp;hq=zingari&amp;hnear=&amp;ll=37.787946,-122.410356&amp;spn=0.165167,0.198441&amp;t=m&amp;z=12&amp;iwloc=A&amp;cid=6978514739887635101&amp;output=embed"></iframe>
                                                     <div class="venu-text">
                                                         <h5 class="colr">About the Event</h5>
                                                         <p>
