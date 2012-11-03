@@ -11,7 +11,7 @@
 }
 body {
 	font-family: 'Lucida Grande', Lucida, Arial, Helvetica, sans-serif;
-	font-size:12px;
+	font-size:11px;
 	color:#757575;
 	width:100%;
 }
