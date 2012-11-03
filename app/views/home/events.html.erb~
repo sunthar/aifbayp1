@@ -147,7 +147,7 @@
                                                     <h4><a href="#"><b>Fall Dinner Meetup</b></a></h4>
                                                     <p class="time">Thursday 11/08 from 6:30pm – 9:30pm</p>
                                                     <!--<p class="venu"><a href="javascript:animatedcollapse.toggle('location1')">Conference Center Auditorium</a></p>-->
-<p class="venu"><a>Location TBD</a></p>
+<p class="venu">Location TBD</p>
                                                 </div>
                                                 <div id="location1" class="venu-map">
                                                     <span class="pointer">&nbsp;</span>
