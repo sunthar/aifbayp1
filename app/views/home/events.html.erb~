@@ -58,7 +58,7 @@
         <!-- Bread Crumb Start -->
         <div class="breadcrumb">
         	<ul>
-		<li>Come meet Bay Area young professionals at our next event, <a href="http://aifbaypbash.eventbrite.com" style="color:black;">Cocktails for a Cause</a> on Friday, November 30. All proceeds go to the AIF signature program, <a href ="http://aifdigitalequalizer.org/blog/?page_id=2" style="color:black">Digital Equalizer.</a></li>
+		<li>Come meet Bay Area young professionals at our next event, <a href="http://aifbaypbash.eventbrite.com" style="color:black;">Cocktails for a Cause</a> on Friday, November 30. All proceeds go to <a href ="http://aifdigitalequalizer.org/blog/?page_id=2" style="color:black">Digital Equalizer.</a></li>
                 <!--<li><a href="#">Latest Blogs</a></li>
                 <li><a href="#">June 2012</a></li>-->
             </ul>
