@@ -102,32 +102,6 @@
                                         <div class="event-set">
 
 
-                                            <!-- Event Single Date Start -->
-                                            <div class="single-event">
-                                                <div class="eve-date" style="background:url(http://media.licdn.com/mpr/mpr/shrink_60_60/p/1/000/0ea/3a0/2fd0f59.jpg); height:50px; width:40px;">
-                                                </div>
-                                                <div class="eve-desc" style="width:385px;">
-                                                    <h4><a href="#">Shalin Mantri<br/>
-							Product Manager, Kontagent</a></h4>
-                                                    <p class="time">Co-President</p>
-                                                    <p class="venu"><a href="javascript:animatedcollapse.hide('abcde')">Full bio</a></p>
-                                                </div>
-                                                <div id="abcde" class="venu-map">
-                                                   <span class="pointer">&nbsp;</span>
-                                                    
-                                                    <div class="venu-text" style="padding-top:10px;">
-                                                        <h5 class="colr">About</h5>
-                                                        <p>
-Shalin Mantri is a three-year veteran of the Bay Area Young Professionals chapter. He currently serves as co-president, formerly ran its community outreach efforts, and was part of the chapter's founding team in 2009. Beyond AIF, Mantri had been actively involved in India-oriented nonprofit work. He spent a year in Bangalore helping deliver entrepreneurship education to hundreds of institutes in India. Mantri is the head of mobile products at Kontagent, a Big Data company in San Francisco. He holds an M.S. in Management Science & Engineering, B.S. in Computer Science, and B.A. in Economics from Stanford University.
-                                                        </p>
-                                                    </div>
-                                                    <div class="location-opts">
-<!--<a href="www.linkedin.com/in/shalinmantri"><img src="http://db.tt/iSYLEs5F"/></a><span>  </span><a href ="www.facebook.com/shamantri"><img src="http://db.tt/vWmoACKT"/></a>-->
-                                                        <a href="javascript:animatedcollapse.hide('location0')" class="close">Close</a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <!-- Event Single Date End -->
 
                                             <!-- Event Single Date Start -->
                                             <div class="single-event">
@@ -548,7 +522,32 @@ Niharika has always had a strong passion for philanthropy and community service,
                                             </div>
                                             <!-- Event Single Date End -->
 
-
+<!-- Event Single Date Start -->
+                                            <div class="single-event">
+                                                <div class="eve-date" style="background:url(http://media.licdn.com/mpr/mpr/shrink_60_60/p/1/000/0e6/0d4/129d9d1.jpg); height:50px; width:40px;">
+                                                </div>
+                                                <div class="eve-desc" style="width:385px;">
+                                                    <h4><a href="#">Sahana Jayaraman<br/>
+							Managing Supervisor, Digital Marketing at Fleishman-Hillard</a></h4>
+                                                    <p class="time">Lead, Branding & PR</p>
+                                                    <p class="venu"><a href="javascript:animatedcollapse.toggle('location17')">Full bio</a></p>
+                                                </div>
+                                                <div id="location17" class="venu-map" style="display:none">
+                                                    <span class="pointer">&nbsp;</span>
+                                                    
+                                                    <div class="venu-text" style="padding-top:10px;">
+                                                        <h5 class="colr">About</h5>
+                                                        <p>
+Coming soon.
+</p>
+                                                    </div>
+                                                    <div class="location-opts">
+<!--<img src="http://db.tt/iSYLEs5F"/> <span>    </span><img src="http://db.tt/vWmoACKT"/>-->
+                                                        <a href="javascript:animatedcollapse.hide('location17')" class="close">Close</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- Event Single Date End -->
 
  
 
